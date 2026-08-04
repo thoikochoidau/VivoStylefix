@@ -1,0 +1,11 @@
+{
+    CFBundleDevelopmentRegion = English;
+    CFBundleExecutable = VivoStylePrefs;
+    CFBundleIdentifier = "com.vivostyle.prefs.bundle";
+    CFBundleInfoDictionaryVersion = "6.0";
+    CFBundleName = VivoStylePrefs;
+    CFBundlePackageType = BNDL;
+    CFBundleShortVersionString = "1.0";
+    CFBundleVersion = "1.0";
+    NSPrincipalClass = VVSPrefsController;
+}

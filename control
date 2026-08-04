@@ -1,0 +1,9 @@
+Package: com.vivostyle.tweak
+Name: VivoStyle
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: vivo OriginOS-style gyroscope "Flip Card" lock screen wallpapers — tilt to cross-fade between your own photos, with parallax depth. Configurable in Settings.
+Maintainer: huy
+Author: huy
+Section: Tweaks
+Depends: ellekit, preferenceloader, firmware (>= 15.0)
